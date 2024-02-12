@@ -5,7 +5,7 @@
 <style>
   body {
     background-color: #5a9cff; /* Cambié el color de fondo a un tono más claro */
-    color: #800080;
+    color: #000;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -21,7 +21,7 @@
   }
 
   h1 {
-    color: #000;
+    display: none;
 
   h2 {
     border-bottom: 2px solid #000;
@@ -42,7 +42,7 @@
   }
 
   a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
   }
 </style>
