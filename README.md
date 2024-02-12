@@ -44,8 +44,8 @@
   a {
     color: #fff;
     text-decoration: none;
-  }
-</style>
+  
+
 
 ## Sobre Mí
 Soy una programadora apasionada por crear páginas web, aplicaciones empresariales, sistemas y software.
@@ -61,7 +61,9 @@ Soy una programadora apasionada por crear páginas web, aplicaciones empresarial
 - +57 322 462 4946
 
 ## Enlaces
-- [LinkedIn](https://co.linkedin.com/in/nicol-barrera-3017962a9)
-- [Facebook](https://www.facebook.com/profile.php?id=61550803203335)
-
+- a[href="LinkedIn"](https://co.linkedin.com/in/nicol-barrera-3017962a9)
+- a[href="Facebook"](https://www.facebook.com/profile.php?id=61550803203335)
+  color: #006400;
+    }
+</style>
 ![Imagen](https://thevalley.es/wp-content/uploads/2022/05/3.jpg)
