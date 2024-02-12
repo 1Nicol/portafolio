@@ -13,11 +13,11 @@
   }
 
   h1, h2 {
-    color: #000; /* Color del texto blanco para encabezados */
+    color: #000; /* Color del texto negro para encabezados */
   }
 
   h2 {
-    border-bottom: 2px solid #fff; /* Línea inferior para separar secciones */
+    border-bottom: 2px solid #000; /* Línea inferior para separar secciones */
     padding-bottom: 10px; /* Espaciado inferior para encabezados de sección */
   }
 
