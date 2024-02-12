@@ -17,5 +17,29 @@
 ## Enlaces
 - (https://co.linkedin.com/in/nicol-barrera-3017962a9)
 - (https://www.facebook.com/profile.php?id=61550803203335)
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #f2f2f2; /* Color de fondo */
+      padding: 20px; /* Espaciado interno */
+      border-radius: 10px; /* Bordes redondeados */
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+    }
+
+    h1 {
+      color: #333; /* Color del texto */
+    }
+  </style>
+</head>
+<body>
+
+# Mi Proyecto Genial
+
+¡Bienvenido a mi proyecto genial en GitHub!
+
+</body>
+</html>
 
 
