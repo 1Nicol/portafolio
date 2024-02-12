@@ -1,10 +1,6 @@
-# Portafolio de Nicol
-
-¡Hola! Soy Nicol, una entusiasta de la tecnología.
-
 <style>
   body {
-    background-color: #5a9cff; /* Cambié el color de fondo a un tono más claro */
+    background-color: #5a9cff;
     color: #000;
     padding: 20px;
     border-radius: 20px;
@@ -16,20 +12,25 @@
   }
 
   h1, h2 {
-    margin-top: 10px; /* Añadí espacio antes de los títulos */
+    margin-top: 10px;
     color: #000;
   }
 
   h1 {
-    display: none;
+    display: block;
+    font-style: italic;
+    font-size: 2em;
+  }
 
   h2 {
     border-bottom: 2px solid #000;
     padding-bottom: 10px;
+    font-size: 1.5em;
   }
 
   p {
-    line-height: 1.6;
+    line-height: 1.8;
+    font-size: 1.2em;
   }
 
   ul {
@@ -38,15 +39,21 @@
   }
 
   li {
-    margin-bottom: 12px; /* Ajusté el espaciado entre elementos de la lista */
+    margin-bottom: 16px;
+    font-size: 1.2em;
   }
 
   a {
     color: #000;
     text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em;
   }
 </style>
 
+<!-- Resto de tu código HTML sigue aquí -->
+
+<h1>Bienvenidos</h1>
 
 ## Sobre Mí
 Soy una programadora apasionada por crear páginas web, aplicaciones empresariales, sistemas y software.
@@ -65,5 +72,4 @@ Soy una programadora apasionada por crear páginas web, aplicaciones empresarial
 - [LinkedIn](https://co.linkedin.com/in/nicol-barrera-3017962a9)
 - [Facebook](https://www.facebook.com/profile.php?id=61550803203335)
 
-  
 ![Imagen](https://thevalley.es/wp-content/uploads/2022/05/3.jpg)
