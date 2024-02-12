@@ -13,7 +13,7 @@
   }
 
   h1, h2 {
-    color: #fff; /* Color del texto blanco para encabezados */
+    color: #000; /* Color del texto blanco para encabezados */
   }
 
   h2 {
