@@ -5,7 +5,7 @@
 <style>
   body {
     background-color: #3498db; /* Color azul */
-    color: #fff; /* Color del texto blanco para mejor contraste */
+    color: #800080; /* Color del texto blanco para mejor contraste */
     padding: 20px; /* Espaciado interno */
     border-radius: 10px; /* Bordes redondeados */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
