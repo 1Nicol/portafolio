@@ -4,39 +4,40 @@
 
 <style>
   body {
-    background-color: #3498db; /* Color azul */
-    color: #800080; /* Color del texto blanco para mejor contraste */
-    padding: 20px; /* Espaciado interno */
-    border-radius: 10px; /* Bordes redondeados */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
-    font-family: 'Arial', sans-serif; /* Tipo de fuente */
+    background-color: #5a9cff; /* Cambié el color de fondo a un tono más claro */
+    color: #800080;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
   }
 
   h1, h2 {
-    color: #000; /* Color del texto negro para encabezados */
+    margin-top: 10px; /* Añadí espacio antes de los títulos */
+    color: #000;
   }
 
   h2 {
-    border-bottom: 2px solid #000; /* Línea inferior para separar secciones */
-    padding-bottom: 10px; /* Espaciado inferior para encabezados de sección */
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
   }
 
   p {
-    line-height: 1.6; /* Altura de línea mejorada para una mejor legibilidad */
+    line-height: 1.6;
   }
 
   ul {
-    list-style-type: none; /* Quita los puntos de la lista */
-    padding: 0; /* Elimina el relleno predeterminado de la lista */
+    list-style-type: none;
+    padding: 0;
   }
 
   li {
-    margin-bottom: 8px; /* Espaciado entre elementos de la lista */
+    margin-bottom: 12px; /* Ajusté el espaciado entre elementos de la lista */
   }
 
   a {
-    color: #fff; /* Color del texto blanco para enlaces */
-    text-decoration: none; /* Quita el subrayado predeterminado de los enlaces */
+    color: #fff;
+    text-decoration: none;
   }
 </style>
 
@@ -57,5 +58,4 @@ Soy una programadora apasionada por crear páginas web, aplicaciones empresarial
 - [LinkedIn](https://co.linkedin.com/in/nicol-barrera-3017962a9)
 - [Facebook](https://www.facebook.com/profile.php?id=61550803203335)
 
-  
-![Imagen](https://www.shutterstock.com/image-illustration/programming-code-abstract-technology-background-260nw-680664070.jpg)
+![Imagen](https://thevalley.es/wp-content/uploads/2022/05/3.jpg)
