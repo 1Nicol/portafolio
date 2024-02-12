@@ -56,3 +56,4 @@ Soy una programadora apasionada por crear páginas web, aplicaciones empresarial
 ## Enlaces
 - [LinkedIn](https://co.linkedin.com/in/nicol-barrera-3017962a9)
 - [Facebook](https://www.facebook.com/profile.php?id=61550803203335)
+![Imagen](https://www.shutterstock.com/image-illustration/programming-code-abstract-technology-background-260nw-680664070.jpg)
