@@ -7,7 +7,7 @@
     background-color: #5a9cff; /* Cambié el color de fondo a un tono más claro */
     color: #800080;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     font-family: 'Arial', sans-serif;
   }
@@ -16,6 +16,9 @@
     margin-top: 10px; /* Añadí espacio antes de los títulos */
     color: #000;
   }
+
+  h1 {
+    color: #000;
 
   h2 {
     border-bottom: 2px solid #000;
