@@ -10,6 +10,9 @@
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     font-family: 'Arial', sans-serif;
+    background-image: url('https://www.muycomputerpro.com/wp-content/uploads/2016/01/Inteligencia-artificial.jpg'); 
+    background-size: cover; 
+    background-position: center;
   }
 
   h1, h2 {
