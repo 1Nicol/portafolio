@@ -10,6 +10,49 @@
     background-size: cover; 
     background-position: center;
   }
+   nav {
+    margin-top: 20px;
+  }
+
+  ul.menu {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  ul.menu li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+  ul.submenu {
+    display: none;
+    position: absolute;
+    background-color: #ffd700;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  ul.menu li:hover ul.submenu {
+    display: block;
+  }
+</style>
+
+<nav>
+  <ul class="menu">
+    <li><a href="#bienvenidos">Bienvenidos</a></li>
+    <li>
+      <a href="#">Secciones</a>
+      <ul class="submenu">
+        <li><a href="#sobre-mi">Sobre Mí</a></li>
+        <li><a href="#proyectos-destacados">Proyectos Destacados</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#consultas-whatsapp">Consultas al WhatsApp</a></li>
+        <li><a href="#redes-sociales">Redes Sociales</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
 
   h1, h2 {
     margin-top: 10px;
