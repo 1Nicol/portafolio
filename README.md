@@ -62,24 +62,23 @@
 ![Imagen](https://i.pinimg.com/736x/c6/26/af/c626afc035f191c2ae5f18b4e31bcce9.jpg)
 
 ## Sobre Mí
-Soy una programadora apasionada por crear páginas web, aplicaciones empresariales, sistemas y software.
+Soy una programadora apasionada con experiencia en el desarrollo de paginas web, aplicaciones empresariales y sistemas.Mi objetivo es crear soluciones eficientes y efectivas a traves del codigo
 
 ![Imagen](https://www.lawebdelprogramador.com/usr/188000/188742/559d1d6caa7dd-imagen1.png)
 
 ## Proyectos Destacados
-1. Proyecto de aplicación
-2. Desarrollo de páginas web
+- He liderado proyectos exitosos, como el desarrollo de una app innovadora y la creacion de sitios web atractivos que cumplan con las necesidades de los clientes
 
 ![Imagen](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/vs-ide-productive.webp)
 
 ## Habilidades
-- Python, HTML, CSS, JavaScript, Java, react native, typescript
+- Python, HTML, CSS, JavaScript, Java, react native, typescript, php, react
 
 
-## Contacto
+## Para Consultas puedes contactarme a el whatsApp :
 - +57 322 462 4946
 
-## Abre el Enlace
+## Puedes encontrar mas sobre mi trabajo en :
 - [LinkedIn](https://co.linkedin.com/in/nicol-barrera-3017962a9)
 - [Facebook](https://www.facebook.com/profile.php?id=61550803203335)
 
