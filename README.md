@@ -14,6 +14,10 @@
   h1, h2 {
     margin-top: 10px;
     color: #000;
+    background-color: #ffd700; /* Color de fondo que desees */
+    padding: 10px;
+    border-radius: 10px; /* Bordes redondeados */
+}
   }
 
   h1 {
