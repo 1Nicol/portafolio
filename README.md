@@ -14,10 +14,9 @@
   h1, h2 {
     margin-top: 10px;
     color: #000;
-    background-color: #ffd700; /* Color de fondo que desees */
+    background-color: #ffd700;
     padding: 10px;
-    border-radius: 10px; /* Bordes redondeados */
-}
+    border-radius: 10px;
   }
 
   h1 {
@@ -55,31 +54,30 @@
   }
 </style>
 
-
-
 ## Bienvenidos
 
 ![Imagen](https://i.pinimg.com/736x/c6/26/af/c626afc035f191c2ae5f18b4e31bcce9.jpg)
 
 ## Sobre Mí
-Soy una programadora apasionada con experiencia en el desarrollo de paginas web, aplicaciones empresariales y sistemas.Mi objetivo es crear soluciones eficientes y efectivas a traves del codigo
+Soy una programadora apasionada con experiencia en el desarrollo de páginas web, aplicaciones empresariales y sistemas. Mi objetivo es crear soluciones eficientes y efectivas a través del código
 
 ![Imagen](https://www.lawebdelprogramador.com/usr/188000/188742/559d1d6caa7dd-imagen1.png)
 
 ## Proyectos Destacados
-- He liderado proyectos exitosos, como el desarrollo de una app innovadora y la creacion de sitios web atractivos que cumplan con las necesidades de los clientes
+- He liderado proyectos exitosos, como el desarrollo de una app innovadora y la creación de sitios web atractivos que cumplan con las necesidades de los clientes
 
 ![Imagen](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/vs-ide-productive.webp)
 
 ## Habilidades
-- Python, HTML, CSS, JavaScript, Java, react native, typescript, php, react
+- Python, HTML, CSS, JavaScript, Java, React Native, TypeScript, PHP, React
 
 
-## Para Consultas puedes contactarme a el whatsApp :
+## Para Consultas puedes contactarme a WhatsApp:
 - +57 322 462 4946
 
-## Puedes encontrar mas sobre mi trabajo en :
+## Puedes encontrar más sobre mi trabajo en:
 - [LinkedIn](https://co.linkedin.com/in/nicol-barrera-3017962a9)
 - [Facebook](https://www.facebook.com/profile.php?id=61550803203335)
 
 ![Imagen](https://thevalley.es/wp-content/uploads/2022/05/3.jpg)
+</style>
