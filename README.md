@@ -53,17 +53,24 @@
 
 
 
-<h1>Bienvenidos</h1>
+## Bienvenidos
+
+![Imagen](https://i.pinimg.com/736x/c6/26/af/c626afc035f191c2ae5f18b4e31bcce9.jpg)
 
 ## Sobre Mí
 Soy una programadora apasionada por crear páginas web, aplicaciones empresariales, sistemas y software.
+
+![Imagen](https://www.lawebdelprogramador.com/usr/188000/188742/559d1d6caa7dd-imagen1.png)
 
 ## Proyectos Destacados
 1. Proyecto de aplicación
 2. Desarrollo de páginas web
 
+![Imagen](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/vs-ide-productive.webp)
+
 ## Habilidades
 - Python, HTML, CSS, JavaScript, Java, react native, typescript
+
 
 ## Contacto
 - +57 322 462 4946
