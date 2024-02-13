@@ -1,16 +1,5 @@
 <style>
-  body {
-    background-color: #5a9cff;
-    color: #000;
-    padding: 20px;
-    border-radius: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    font-family: 'Arial', sans-serif;
-    background-image: url('https://www.muycomputerpro.com/wp-content/uploads/2016/01/Inteligencia-artificial.jpg'); 
-    background-size: cover; 
-    background-position: center;
-  }
-   nav {
+    nav {
     margin-top: 20px;
   }
 
@@ -36,24 +25,18 @@
   ul.menu li:hover ul.submenu {
     display: block;
   }
-</style>
-
-<nav>
-  <ul class="menu">
-    <li><a href="#bienvenidos">Bienvenidos</a></li>
-    <li>
-      <a href="#">Secciones</a>
-      <ul class="submenu">
-        <li><a href="#sobre-mi">Sobre Mí</a></li>
-        <li><a href="#proyectos-destacados">Proyectos Destacados</a></li>
-        <li><a href="#habilidades">Habilidades</a></li>
-        <li><a href="#consultas-whatsapp">Consultas al WhatsApp</a></li>
-        <li><a href="#redes-sociales">Redes Sociales</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-
+  body {
+    background-color: #5a9cff;
+    color: #000;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://www.muycomputerpro.com/wp-content/uploads/2016/01/Inteligencia-artificial.jpg'); 
+    background-size: cover; 
+    background-position: center;
+  }
+  
   h1, h2 {
     margin-top: 10px;
     color: #000;
@@ -97,6 +80,22 @@
     font-size: 1.2em;
   }
 </style>
+
+<nav>
+  <ul class="menu">
+    <li><a href="#bienvenidos">Bienvenidos</a></li>
+    <li>
+      <a href="#">Secciones</a>
+      <ul class="submenu">
+        <li><a href="#sobre-mi">Sobre Mí</a></li>
+        <li><a href="#proyectos-destacados">Proyectos Destacados</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#consultas-whatsapp">Consultas al WhatsApp</a></li>
+        <li><a href="#redes-sociales">Redes Sociales</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
 
 
 
