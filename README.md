@@ -17,7 +17,7 @@
   }
 
   h1 {
-    display: block;
+    display: none;
     font-style: italic;
     font-size: 2em;
   }
@@ -51,7 +51,7 @@
   }
 </style>
 
-<!-- Resto de tu código HTML sigue aquí -->
+
 
 <h1>Bienvenidos</h1>
 
@@ -63,12 +63,12 @@ Soy una programadora apasionada por crear páginas web, aplicaciones empresarial
 2. Desarrollo de páginas web
 
 ## Habilidades
-- Python, HTML, CSS, JavaScript, Java
+- Python, HTML, CSS, JavaScript, Java, react native, typescript
 
 ## Contacto
 - +57 322 462 4946
 
-## Enlaces
+## Abre el Enlace
 - [LinkedIn](https://co.linkedin.com/in/nicol-barrera-3017962a9)
 - [Facebook](https://www.facebook.com/profile.php?id=61550803203335)
 
