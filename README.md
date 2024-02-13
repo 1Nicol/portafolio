@@ -114,7 +114,7 @@ Soy una programadora apasionada con experiencia en el desarrollo de paginas web,
 ![Imagen](https://visualstudio.microsoft.com/wp-content/uploads/2023/01/vs-ide-productive.webp)
 
 ## Habilidades
-- Python, HTML, CSS, JavaScript, Java, react native, typescript, php, react
+- Python, HTML, CSS, JavaScript, Java, react native, typescript, php, React.
 
 
 ## Para Consultas puedes contactarme a el whatsApp :
