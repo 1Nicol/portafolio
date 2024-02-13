@@ -90,8 +90,8 @@
         <li><a href="#sobre-mi">Sobre Mí</a></li>
         <li><a href="#proyectos-destacados">Proyectos Destacados</a></li>
         <li><a href="#habilidades">Habilidades</a></li>
-        <li><a href="#para-consultas-puedes-contactarme-a-el-whatsapp:">Para Consultas puedes contactarme a el whatsApp:</a></li>
-        <li><a href="#puedes-encontrar-mas-sobre-mi-trabajo-en:">Puedes encontrar mas sobre mi trabajo en:</a></li>
+        <li><a href="#para-consultas-whatsapp">Para Consultas puedes contactarme a el whatsApp</a></li>
+        <li><a href="#puedes-encontrar-mas-sobre-mi-trabajo-en">Puedes encontrar mas sobre mi trabajo en</a></li>
       </ul>
     </li>
   </ul>
